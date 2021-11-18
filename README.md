@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @moradgames125
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mradalshymy426@gmail.com
 
 <!---
